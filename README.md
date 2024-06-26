@@ -1,1 +1,2 @@
-# LLM
+# Large Langauge Model
+- # NLP Basic
